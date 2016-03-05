@@ -1,0 +1,28 @@
+AsyncImageDownloader/local.properties
+
+#idea default setting
+AsyncImageDownloader/.idea
+
+
+AsyncImageDownloader/.gradle
+
+AsyncImageDownloader/app/build
+
+
+AsyncImageDownloader/app/.gradle
+
+AsyncImageDownloader/AsyncImageDownloader.iml
+
+
+
+# Built application file
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Log Files
+*.log
